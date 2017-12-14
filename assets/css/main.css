@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.row{
+	margin: 0;
+}
+
+#splash{
+	background: linear-gradient(rgba(84, 0, 95, 1), rgba(230, 9, 139, 1));
+	height: 100vh;
+	width: 100%;
+	position: absolute;
+}
+
+ .row .col{
+ 	padding: 0;
+}
+
+
+.logo-white{
+	width: 60%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.homepage{
+	background-image: url(../img/lyftfondo.jpg);
+	background-position: left;
+	height: 100vh;
+	width: auto;
+}
+
+.lyft-sm{
+	width:20%;
+	height: auto;
+	margin-top: 0;
+}
+
+.lyftrosa{
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+}
+
+button{
+	border: 2px solid white;
+	background-color: transparent;
+	padding: 8%;
+	color: white;
+	bottom: 0;
+	margin-left: 4px;
+}
+
+
+
